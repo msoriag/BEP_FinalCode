@@ -1,0 +1,13 @@
+nltk
+pandas
+numpy
+bertopic
+sentence-transformers
+scikit-learn
+umap-learn
+hdbscan
+gensim
+matplotlib
+statsmodels
+scipy
+seaborn
