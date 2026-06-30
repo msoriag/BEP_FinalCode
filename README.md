@@ -10,7 +10,7 @@ Based on mixed-effects logistic regression models and coverage measurements:
 * **The Information Gap:** AI-generated descriptions achieved a moderate coverage rate of 42.4%, leaving a substantial 57.6% information gap. Human-written text consistently outperformed AI in covering these critical consumer terms.
 * **Technical vs. Physical Attributes:** AI successfully captured standardized technical specifications (e.g., storage capacity, screen resolution) but exhibited a notable gap in covering spatial and physical factors (e.g., equipment padding, dimensions).
 * **Prompt Engineering is Ineffective Here:** Manipulating the AI's tone (Neutral/Informative) and persona (Quality-Focused) did not produce statistically significant variations in information coverage ($p>0.05$).
-* **No "Over-claims":** Detected zero instances of over-coverage within the Q&A-derived dictionary, suggesting that omission—rather than text fabrication—is the dominant measurable issue in this low-context e-commerce setting.
+* **No "Over-claims":** Detected zero instances of over-coverage within the Q&A-derived dictionary, suggesting that omission (rather than text fabrication) is the dominant measurable issue in this low-context e-commerce setting.
 * **Conclusion:** Businesses cannot rely solely on generic automated text generation; manual intervention remains necessary to capture critical human-centric usability details.
 
 ## Methodology
